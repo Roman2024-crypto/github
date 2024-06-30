@@ -11,7 +11,7 @@
 
 **Задание 2**
 
-Создан файл [.gitignore](https://github.com/Roman2024-crypto/github/commit/ac7dde1724f5482f20f19571966fce25ea85a589)
+Создан файл [.gitignore](https://github.com/Roman2024-crypto/github/commit/b579e8214705c6d46997de402c005de2e67aa3e2)
 
 
 
